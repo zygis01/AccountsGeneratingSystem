@@ -1,0 +1,72 @@
+[---------------------------------------------------]
+LT5123817238121
+Swedbank
+Account balance: $2000
+Account balance after purchases: $1070.65
+
+Items bought: 
+Product ID : 100 - Full size speakers $109.79 x 4
+Product ID : 111 - Bluetooth mouse $40.89 x 7
+Product ID : 106 - LED lamp $50.99 x 4
+Total cost: $929.35
+
+[---------------------------------------------------]
+FRA8129381239992
+BNP Paribas
+Account balance: $2000
+Account balance after purchases: $1089.05
+
+Items bought: 
+Product ID : 102 - Full size speakers $109.79 x 3
+Product ID : 110 - Bluetooth mouse $40.89 x 3
+Product ID : 104 - LED lamp $50.99 x 9
+Total cost: $910.95
+
+[---------------------------------------------------]
+ITA1231782398172
+UniCredit
+Account balance: $2000
+Account balance after purchases: $795.05
+
+Items bought: 
+Product ID : 101 - Full size speakers $109.79 x 8
+Product ID : 109 - Bluetooth mouse $40.89 x 3
+Product ID : 107 - LED lamp $50.99 x 4
+Total cost: $1204.95
+
+[---------------------------------------------------]
+LV1092312312381
+BluOr Bank
+Account balance: $2000
+Account balance after purchases: $971.45
+
+Items bought: 
+Product ID : 112 - Full size speakers $109.79 x 5
+Product ID : 105 - Bluetooth mouse $40.89 x 3
+Product ID : 103 - LED lamp $50.99 x 7
+Total cost: $1028.55
+
+[---------------------------------------------------]
+PL1238127381273
+Santander
+Account balance: $2000
+Account balance after purchases: $1267.25
+
+Items bought: 
+Product ID : 107 - Full size speakers $109.79 x 1
+Product ID : 110 - Bluetooth mouse $40.89 x 9
+Product ID : 108 - LED lamp $50.99 x 5
+Total cost: $732.75
+
+[---------------------------------------------------]
+AE2347817283123
+Mashreq Neo
+Account balance: $2000
+Account balance after purchases: $991.65
+
+Items bought: 
+Product ID : 112 - Full size speakers $109.79 x 5
+Product ID : 111 - Bluetooth mouse $40.89 x 5
+Product ID : 110 - LED lamp $50.99 x 5
+Total cost: $1008.35
+
